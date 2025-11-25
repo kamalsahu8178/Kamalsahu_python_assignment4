@@ -1,12 +1,12 @@
 Question no 1  Explain the key features of NumPy and highlight the major differences between NumPy arrays and Python lists with appropriate examples.  
 
 1. High-Performance N-dimensional Array Object
-2. 2.Integration with Other Libraries and Languages
-3. 3.Vectorized Operations
+2. Integration with Other Libraries and Languages
+3. Vectorized Operations
 
 
-Question no 2  Develop a Python program using NumPy to create one-dimensional and two-dimensional arrays, and display their shape, dimensions, and data
-type.  
+Question no 2  Develop a Python program using NumPy to create one-dimensional and two-dimensional arrays, and display their shape, dimensions, and datatype.  
+
 Python List: Can store elements of different data types (heterogeneous). For example, a list can contain integers, strings, and even other lists.
 NumPy Array: Stores elements of a single, uniform data type (homogeneous). All elements in a NumPy array must be of the same type (e.g., all integers, all floats). This homogeneity is key to its performance advantages. 
 
